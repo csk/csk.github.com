@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/conradsteink
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://csk.github.io
+  * I am conradsteink (https://keybase.io/conradsteink) on keybase.
+  * I have a public key ASDeIzo647vbkpYxgbib6BsCzapCiy4OA0SHeR0ycb1Q1go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207e21840c38f048a74662d3e41bbb62589eecfb67131755efc644f39cdd7fe1c40a",
+      "host": "keybase.io",
+      "kid": "0120de233a3ae3bbdb92963181b89be81b02cdaa428b2e0e034487791d3271bd50d60a",
+      "uid": "98060e127343ace599817d93bd5f3a19",
+      "username": "conradsteink"
+    },
+    "merkle_root": {
+      "ctime": 1519534795,
+      "hash": "59aee9d84d31c73c9e10f523469e06b6a88559897f3931c98400a8b904ed5bd7abef0ccabc0184ea42c3e2c3cf332a0026b8f7357226f1e6fadd6be823f8c705",
+      "hash_meta": "243f36f5db30de16a89e9616ef0ee89e3656209413eba13f53af4dff7bfe818e",
+      "seqno": 2148988
+    },
+    "service": {
+      "hostname": "csk.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.44"
+  },
+  "ctime": 1519534819,
+  "expire_in": 504576000,
+  "prev": "d33a33948bef180847133b2437ffbe79c1517e94797b02604f566c263d98e582",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3iM6OuO725KWMYG4m+gbAs2qQosuDgNEh3kdMnG9UNYKp3BheWxvYWTFA0p7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwN2UyMTg0MGMzOGYwNDhhNzQ2NjJkM2U0MWJiYjYyNTg5ZWVjZmI2NzEzMTc1NWVmYzY0NGYzOWNkZDdmZTFjNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZGUyMzNhM2FlM2JiZGI5Mjk2MzE4MWI4OWJlODFiMDJjZGFhNDI4YjJlMGUwMzQ0ODc3OTFkMzI3MWJkNTBkNjBhIiwidWlkIjoiOTgwNjBlMTI3MzQzYWNlNTk5ODE3ZDkzYmQ1ZjNhMTkiLCJ1c2VybmFtZSI6ImNvbnJhZHN0ZWluayJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxOTUzNDc5NSwiaGFzaCI6IjU5YWVlOWQ4NGQzMWM3M2M5ZTEwZjUyMzQ2OWUwNmI2YTg4NTU5ODk3ZjM5MzFjOTg0MDBhOGI5MDRlZDViZDdhYmVmMGNjYWJjMDE4NGVhNDJjM2UyYzNjZjMzMmEwMDI2YjhmNzM1NzIyNmYxZTZmYWRkNmJlODIzZjhjNzA1IiwiaGFzaF9tZXRhIjoiMjQzZjM2ZjVkYjMwZGUxNmE4OWU5NjE2ZWYwZWU4OWUzNjU2MjA5NDEzZWJhMTNmNTNhZjRkZmY3YmZlODE4ZSIsInNlcW5vIjoyMTQ4OTg4fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImNzay5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC40NCJ9LCJjdGltZSI6MTUxOTUzNDgxOSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJkMzNhMzM5NDhiZWYxODA4NDcxMzNiMjQzN2ZmYmU3OWMxNTE3ZTk0Nzk3YjAyNjA0ZjU2NmMyNjNkOThlNTgyIiwic2Vxbm8iOjEzLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQKFnGYH5Qky6g336yc0JMfvwGa5+aWlv1CAf7V2wiQCV7PFRJVXd0fMa9pu0dbPYpPS/xHdE94Jyj5pCNGnUbwmoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCXUGJwuIEnR1mduPrdMte9ZD4yO0ibReiEurCyHDDyoKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/conradsteink
+
+==================================================================
